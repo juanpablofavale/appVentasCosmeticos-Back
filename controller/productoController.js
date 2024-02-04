@@ -1,5 +1,5 @@
 import Tipo from "../models/Tipo.js";
-import Producto from "../models/producto.js";
+import Producto from "../models/Producto.js";
 
 const genRes = {
     response: [],
